@@ -278,7 +278,7 @@ const GAMES_DATA = {
         body:       'Every chapter follows a deliberate learning loop — concept explanation, interactive practice, then story progression — so new knowledge is introduced in context before being tested.\n\nChapter 1 teaches income through a touch-based dishwashing mini game. The mechanic is intentionally simple: tap the dirty plates. No instructions needed beyond what the screen shows. This removes cognitive friction so the player focuses on the concept, not the controls. Completing the challenge progresses Matthew\'s story.',
       },
       {
-        media:      'assets/gifs/littleaccountant/GIFChapter2&3.gif',
+        media:      'assets/gifs/littleaccountant/GIFChapter2and3.gif',
         mediaType:  'gif',
         mediaLabel: 'Chapter 2 — Multiple Choice',
         title:      null,
