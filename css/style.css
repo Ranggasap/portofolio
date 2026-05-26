@@ -944,6 +944,10 @@ footer {
   nav { padding: 1rem 1.5rem; }
   .nav-links { display: none; }
   section { padding: 5rem 1.5rem; }
+  #about {
+    padding: 5rem 1.5rem;
+    align-items: flex-start;
+  }
   .about-grid,
   .contact-grid { grid-template-columns: 1fr; gap: 3rem; }
   .games-grid { grid-template-columns: 1fr; }
