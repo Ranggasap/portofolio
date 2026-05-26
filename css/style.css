@@ -295,11 +295,10 @@ section { padding: 7rem 4rem; }
 #about {
   background: var(--ink);
   color: var(--cream);
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   padding: 3.5rem 4rem;
-  overflow: hidden;
 }
 #about .section-label        { color: var(--teal-200); }
 #about .section-label::before { background: var(--teal-200); }
